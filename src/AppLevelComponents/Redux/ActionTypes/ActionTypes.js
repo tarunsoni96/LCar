@@ -1,0 +1,7 @@
+export const Action_setLoggedIn = "Action_setLoggedIn"
+export const logout = "logout"
+export const sideMenuOpened = "sideMenuOpened"
+export const sideMenuClosed = "sideMenuClosed"
+export const showAlert = "showAlert"
+export const closeAlertView = "closeAlertView"
+export const setSocialSignupData = "setSocialSignupData"

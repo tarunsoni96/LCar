@@ -1,0 +1,6 @@
+module Pods_SOLOYNC {
+  umbrella header "Pods-SOLOYNC-umbrella.h"
+
+  export *
+  module * { export * }
+}

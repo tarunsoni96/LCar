@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "237059092365",
+    "project_id": "lifology-1571398858177",
+    "storage_bucket": "lifology-1571398858177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237059092365:android:838e20001db7e7f08cd7c4",
+        "android_client_info": {
+          "package_name": "com.app.lifology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237059092365-6lmt3r9r2gu7a36fndgulr34ajcs02bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_VPuXSDsjSjmOr2XPWbsBF_AqoDdgoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237059092365-6lmt3r9r2gu7a36fndgulr34ajcs02bu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237059092365-2o0q9chsmqj08q7fjaqjbmeno1i708k9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.lifology"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
